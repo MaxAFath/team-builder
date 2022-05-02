@@ -10,7 +10,7 @@ module.exports= engineerData =>{
     <div class="card">
         <h5 class="title">Engineer</h5>
         <h6 class="subtitle">${name}</h6>
-        <p herf="${email}">email<p>
+        <p herf="${email}">email: ${email}</p>
         <p> Github: ${github} <br>
         ID:${id}</p>
     </div>

@@ -19,7 +19,7 @@ module.exports = teamData => {
     <div class="header">
 
     </div>
-    <div class="container">
+    <div class="container-fluid">
     ${teamData}
     </div>
     </body>
